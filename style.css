@@ -1,5 +1,14 @@
 /* add code here to make your image 300px square */
-
+img {
+    height: 300px;
+}
 /* add code here to change the color and font family of your name/title */
+h1 {
+    color: chocolate;
+    font-family:'Times New Roman', Times, serif
+}
 
+li {
+    color: brown;
+}
 /* Bonus: change the color of your list elements */
